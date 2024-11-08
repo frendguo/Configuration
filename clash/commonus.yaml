@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,firstbase
+  - DOMAIN-KEYWORD,perplexity
