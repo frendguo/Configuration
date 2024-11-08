@@ -1,0 +1,15 @@
+# NAME: Stripe
+# AUTHOR: frendguo
+# SOURCE: 
+# UPDATED: 2024-11-08
+# DOMAIN-KEYWORD: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,authropic.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,ultramobile.com
+  - DOMAIN-SUFFIX,copilot.com
+  - DOMAIN-KEYWORD,capitalone
+  - DOMAIN-KEYWORD,firstbase
