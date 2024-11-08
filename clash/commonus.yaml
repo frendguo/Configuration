@@ -1,9 +1,10 @@
 # NAME: Stripe
 # AUTHOR: frendguo
-# SOURCE: 
+# SOURCE: https://raw.githubusercontent.com/frendguo/Configuration/refs/heads/main/clash/commonus.yaml
 # UPDATED: 2024-11-08
-# DOMAIN-KEYWORD: 1
-# TOTAL: 1
+# DOMAIN-SUFFIX:  6
+# DOMAIN-KEYWORD: 2
+# TOTAL: 8
 payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,authropic.com
