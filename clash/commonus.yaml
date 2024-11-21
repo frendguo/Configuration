@@ -17,3 +17,4 @@ payload:
   - DOMAIN-KEYWORD,firstbase
   - DOMAIN-KEYWORD,perplexity
   - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,mercury
