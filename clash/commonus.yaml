@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ultramobile.com
+  - DOMAIN-SUFFIX,hostinger.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,firstbase
