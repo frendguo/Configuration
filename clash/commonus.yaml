@@ -14,6 +14,15 @@ payload:
   - DOMAIN-SUFFIX,ultramobile.com
   - DOMAIN-SUFFIX,hostinger.com
   - DOMAIN-SUFFIX,copilot.com
+  # reddit
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmail.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,reddituploads.com
+  - DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+  - DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,firstbase
   - DOMAIN-KEYWORD,perplexity
