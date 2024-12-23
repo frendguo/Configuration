@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,hostinger.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybit-aws.com
   # reddit
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,reddit.com
