@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
   - DOMAIN-SUFFIX,redditspace.com
   - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,americanexpress
   - DOMAIN-KEYWORD,firstbase
