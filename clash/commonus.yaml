@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,redditspace.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-KEYWORD,capitalone
   - DOMAIN-KEYWORD,americanexpress
