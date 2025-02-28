@@ -47,5 +47,7 @@ payload:
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
