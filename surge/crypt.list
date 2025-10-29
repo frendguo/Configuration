@@ -78,6 +78,10 @@ DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,bitgetapps.com
 DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,bitget.fit
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,bitkeep.vip
+DOMAIN-SUFFIX,bitkeep.fun
+DOMAIN-SUFFIX,bitkeep.biz
 
 # Bybit
 DOMAIN,bybit-exchange.github.io
@@ -194,3 +198,4 @@ DOMAIN-SUFFIX,bitcoin.it
 DOMAIN-SUFFIX,bitcoinmagazine.com
 DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,walletconnect.org
