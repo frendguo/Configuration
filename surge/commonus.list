@@ -23,6 +23,10 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,aexp.com
 DOMAIN-SUFFIX,aexp-static.com
+
+# sofi
+DOMAIN-SUFFIX,sofi.com
+
 DOMAIN-KEYWORD,capitalone
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,firstbase
