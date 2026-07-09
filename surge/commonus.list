@@ -1,7 +1,10 @@
+# claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.md
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,clau.de
+DOMAIN-KEYWORD,claude
+
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ultramobile.com
@@ -17,19 +20,22 @@ DOMAIN-SUFFIX,reddituploads.com
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
 DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-SUFFIX,redditspace.com
+
+# x/grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,grok.com
+
+# amex
 DOMAIN-SUFFIX,aexp.com
 DOMAIN-SUFFIX,aexp-static.com
+DOMAIN-KEYWORD,americanexpress
 
 # sofi
 DOMAIN-SUFFIX,sofi.com
 
 DOMAIN-KEYWORD,capitalone
-DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,firstbase
 DOMAIN-KEYWORD,perplexity
-DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,equifax
